@@ -1,0 +1,7 @@
+2022-02-07 22:48:12,624 INFO com.example.Employee.Management.EmployeeManagementApplication [main] Starting EmployeeManagementApplication using Java 14.0.1 on DESKTOP-EJ37FD7 with PID 12376 (C:\Users\LENOVO\eclipse-workspace\Employee-Management\target\classes started by LENOVO in C:\Users\LENOVO\eclipse-workspace\Employee-Management)
+2022-02-07 22:48:12,627 DEBUG com.example.Employee.Management.EmployeeManagementApplication [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-07 22:48:12,627 INFO com.example.Employee.Management.EmployeeManagementApplication [main] No active profile set, falling back to default profiles: default
+2022-02-07 22:50:16,676 INFO com.example.Employee.Management.EmployeeManagementApplication [main] Starting EmployeeManagementApplication using Java 14.0.1 on DESKTOP-EJ37FD7 with PID 8140 (C:\Users\LENOVO\eclipse-workspace\Employee-Management\target\classes started by LENOVO in C:\Users\LENOVO\eclipse-workspace\Employee-Management)
+2022-02-07 22:50:16,680 DEBUG com.example.Employee.Management.EmployeeManagementApplication [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-07 22:50:16,681 INFO com.example.Employee.Management.EmployeeManagementApplication [main] No active profile set, falling back to default profiles: default
+2022-02-07 22:50:25,446 INFO com.example.Employee.Management.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 9.417 seconds (JVM running for 10.29)
